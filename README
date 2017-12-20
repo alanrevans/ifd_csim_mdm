@@ -1,0 +1,7 @@
+Name    : IFD 3G/4G Modem Driver for PCSCD. 
+Author  : Alan R Evans (alan@kageds.com)
+Revision: December 20, 2017 (0.0.1)
+License : See file LICENSE
+
+This driver converts the APDU from PCSCD into AT+CSIM commands
+and translates the reply back into APDUs
